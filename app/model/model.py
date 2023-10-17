@@ -23,7 +23,7 @@ classes = [
     'Italian',
     'Kannada',
     'Malayalam',
-    'Portugeese',
+    'Portuguese',
     'Russian',
     'Spanish',
     'Sweedish',
