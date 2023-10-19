@@ -34,4 +34,6 @@ In this regard, it is anticipated that the model will demonstrate sufficient per
 
 docker build -t language-detection-app . 
 
+## To run the docker image, run in therminal the following command:
+
 docker run -p 80:80 language-detection-app
